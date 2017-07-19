@@ -44,7 +44,6 @@ object ScalaCollectorBuild extends Build {
         Libraries.awsSdk,
         Libraries.scopt,
         Libraries.snowplowCommonEnrich,
-        Libraries.igluClient,
         Libraries.scalaz7,
         Libraries.collectorPayload,
         Libraries.json4sJackson,
